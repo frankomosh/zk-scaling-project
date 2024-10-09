@@ -16,7 +16,7 @@ Here is the same calculation in SageMath
 ### How to Use
 
 1. Clone the repository 
-```git clone```
+```git clone git@github.com:frankomosh/zk-scaling-project.git```
 
 2. Install necessary packages
 ```cargo add num-rational```
